@@ -186,7 +186,7 @@ footer {
   height: 240px;
 }
 
-.logo-footer img{
+.logo-footer img {
   display: block;
   margin: 0 auto;
   padding-top: 81px;
@@ -196,9 +196,11 @@ footer {
 .soc-footer {
   text-align: center;
 }
-.soc-footer a{
+
+.soc-footer a {
   margin-right: 18px;
 }
-.soc-footer a:last-child{
+
+.soc-footer a:last-child {
   margin-right: 0;
 }
