@@ -116,6 +116,7 @@ header a {
   font-size: 23px;
   color: rgba(0, 0, 0, 0.4);
   margin: 0 auto;
+  width: 810px;
 }
 
 .info-image img {
@@ -127,7 +128,7 @@ header a {
 
 .access {
   background: white;
-  padding-bottom: 22px;
+  padding: 0 310px 22px 310px;
 }
 
 .access-text h2 {
@@ -144,6 +145,7 @@ header a {
   font-size: 23px;
   color: rgba(0, 0, 0, 0.4);
   margin: 0 auto;
+  width: 810px;
 }
 
 .access-image img {
